@@ -1,0 +1,4 @@
+{
+ "adBannerID" : "ca-app-pub-8704589597859780/1868621024",
+  "show_consent" : "1"	
+}
